@@ -56,3 +56,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/5.0 에 접속합니다.
 이는 제가 인턴하는 회사에서 사용환경이 "C#"이라 사용중인 노트북에서 개발 환경을 갖추기 위해 기록한 것입니다.
 
 백준으로 기본 문법을 다지고, 빠른 시일내로 OOP를 수행할 계획입니다.
+
+찾아보니 https://docs.microsoft.com/ko-kr/visualstudio/mac/uninstall-net-2022?view=vsmac-2022 와 같은
+
+실리콘 맥에 맞춰진 내용도 있었습니다. 하지만 저는 이를 수행하지 않고 개발환경을 갖추었다는 점 양해바랍니다.
