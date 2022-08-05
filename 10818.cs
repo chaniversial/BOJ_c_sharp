@@ -11,6 +11,7 @@ namespace HelloWorld
             int num = int.Parse(Console.ReadLine());
             string[] info = Console.ReadLine().Split();
             int[] array = new int[num];
+            // int[] array = Array.ConvertAll(info, int.Parse);
             for(int i=0;i<num; i++)
             {
                 array[i] = int.Parse(info[i]);
