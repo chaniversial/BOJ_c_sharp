@@ -3,6 +3,10 @@
 저는 MacBook Air (M1, 2020) Monterey 12.5를 사용하고 있습니다.
 
 IDE: Visual Stdio 2019, .NET Core 5.0
+
+현재 백준에서 간단한 자료구조 (스택, 큐 등)을 사용하는 방법까지 숙지하고, OOP에 대한 공부를 할 계획입니다.
+
+
 ## VISUAL STUDIO FOR MAC 2019 다운로드
 
 일단 다음의 홈페이지에 접속하여 비쥬얼 스튜디오 2019 for mac을 받습니다.
